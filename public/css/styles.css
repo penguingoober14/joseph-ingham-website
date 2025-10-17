@@ -128,6 +128,13 @@ a {
   background-color: #C49542;
 }
 
+/* ========== LOGO ========== */
+.logo {
+  height: 50px;
+  width: auto;
+  object-fit: contain;
+}
+
 /* ========== NAVIGATION ========== */
 .nav {
   position: fixed;
